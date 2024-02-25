@@ -1,0 +1,82 @@
+*{
+    font-family: Montserrat;
+}
+
+body{
+    background-color: #E8F9FD;
+    width: fit-content;
+}
+
+.nav-link{
+    text-decoration: black;
+}
+
+.Sign-in{
+    color: beige;
+}
+
+.carousel-caption{
+
+    padding-left: 600px;
+	padding-bottom: 300px;
+    font-size: 200px;
+}
+
+.carousel-description{
+	font-size: 20px;
+}
+
+#Menu{
+    margin-top: 18px;
+	text-align: center;
+    padding-top: 10px;
+}
+
+#menu-col{
+    padding: 10px;
+}
+
+#menu-col:hover{
+    transform: translateY(-5px) scale(1.005) translateZ(0);
+  box-shadow: 0 24px 36px rgba(0,0,0,0.11),
+    0 24px 46px var(--box-shadow-color);
+}
+
+
+#About{
+	margin-top: 18px;
+	text-align: center;
+}
+
+.about-columns{
+	padding: 20px;
+}
+
+.about-content{
+	margin-top: 20px;
+}
+
+
+footer{
+	padding-left: 20px;
+	text-align: center;
+}
+
+.footer-links{
+	padding-top: 10px;
+}
+
+.footer-links:hover{
+	text-underline-position: center;
+}
+
+.contact-content{
+	padding-top: 10px;
+}
+.fa {
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-left-width: 100px;
+  }

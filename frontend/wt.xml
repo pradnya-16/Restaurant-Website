@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ORG>
+    <Emp>
+        <E_ID = "1"></E_ID>
+        <E_NAME = "Harry"></E_NAME>
+        <E_SAL = "60000"></E_SAL>
+        <E_DESG = "DEVELOPER"></E_DESG>
+    </Emp> 
+    <Emp>
+        <E_ID = "2"></E_ID>
+        <E_NAME = "Ron"></E_NAME>
+        <E_SAL = "40000"></E_SAL>
+        <E_DESG = "DEVELOPER"></E_DESG>
+    </Emp> 
+    <Emp>
+        <E_ID = "3"></E_ID>
+        <E_NAME = "Hermione"></E_NAME>
+        <E_SAL = "50000"></E_SAL>
+        <E_DESG = "DEVELOPER"></E_DESG>
+    </Emp> 
+</ORG>
